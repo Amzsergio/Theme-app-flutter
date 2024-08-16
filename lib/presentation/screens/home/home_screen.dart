@@ -20,8 +20,6 @@ class HomeScreen extends StatelessWidget {
   }
 }
 
-enum Category { history, math, software, tech }
-
 class _HomeView extends StatelessWidget {
   const _HomeView();
 

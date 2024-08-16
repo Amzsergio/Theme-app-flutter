@@ -19,6 +19,6 @@ const appMenuItems = <MenuItem>[
     title: 'App Theme Settings',
     subTitle: 'Choose Your Style',
     link: '/theme-settings',
-    icon: Icons.style_sharp,
+    icon: Icons.brush_outlined,
   ),
 ];
